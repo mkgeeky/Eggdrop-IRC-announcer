@@ -1,5 +1,10 @@
-## Installation
+## Notes
 
+First of all you need [Eggdrop](https://github.com/eggheads/eggdrop) installed on your server.
+
+**You need at least v1.9.2**
+
+## Installation
 Open your eggdrop.conf and add the script
 
 `source scripts/Eggdrop-IRC-announcer.tcl`
