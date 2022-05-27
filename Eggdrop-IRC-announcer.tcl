@@ -1,3 +1,10 @@
+#############################
+# This script is made by: mkgeeky
+# Web: https://mkgeeky.xyz
+# Git: https://github.com/mkgeeky/
+# Mail: contact@mkgeeky.xyz
+# Lines above MAY NOT BE removed!
+#############################
 # Change config
 set conf(port) 35789
 set conf(chan) "#"
